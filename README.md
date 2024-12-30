@@ -27,15 +27,7 @@ To use this project, you will need:
 4. Ensure the dataset referenced in the workbook is accessible and correctly linked in Tableau.
 
 ## Dataset
-The Tableau Workbook relies on Formula 1 racing data. Ensure you have the required dataset in a supported format (e.g., CSV, Excel, or database) and correctly link it to the workbook. If the dataset is not included, you can download Formula 1 data from sources such as:
-- [Formula 1 Official Website](https://www.formula1.com/)
-- [Kaggle Formula 1 Datasets](https://www.kaggle.com/)
-
-## Contributing
-Contributions are welcome! If you would like to add new features, improve visualizations, or enhance the analysis, feel free to fork this repository and submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+The Tableau Workbook relies on Formula 1 racing data.Dataset are mentioned with thid repository.
 
 ## Acknowledgments
 - Thanks to Formula 1 for making racing data available.
