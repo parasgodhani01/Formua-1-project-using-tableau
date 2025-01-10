@@ -27,7 +27,7 @@ To use this project, you will need:
 4. Ensure the dataset referenced in the workbook is accessible and correctly linked in Tableau.
 
 ## Dataset
-The Tableau Workbook relies on Formula 1 racing data.Dataset are mentioned with thid repository.
+The Tableau Workbook relies on Formula 1 racing data and dataset are mentioned with this repository.
 
 ## Acknowledgments
 - Thanks to Formula 1 for making racing data available.
